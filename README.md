@@ -8,9 +8,9 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/images/Data_Jobs_Image1.png)
+![Data Jobs Dashboard V1](/images/Data_Jobs_Image1.png)
 
- 🔍 [View interactive dashboard here on Power BI service](https://1drv.ms/v/c/7e1c61079c34cd29/IQD3iCMk7rddSY5OciweMygCAXXFTg9NWH6R2Lwg2zFekPY?e=zP7bqw)
+ 🔍 [View Interactive Dashboard Here](https://1drv.ms/v/c/7e1c61079c34cd29/IQD3iCMk7rddSY5OciweMygCAXXFTg9NWH6R2Lwg2zFekPY?e=zP7bqw)
 
 ## Key Power BI Skills Utilized
 
@@ -32,7 +32,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ![Data Jobs Dashboard 2.0](/images/Data_Jobs_v2_Image1.png)
 
-[🌐 **View Interactive Dashboard v2 here**](https://1drv.ms/v/c/7e1c61079c34cd29/IQB5FTDDgGr0SI_9zl8Cr1FqAV9USpjAiBb_JiGRoeABrVI?e=ehzSmm)
+[🌐 **View Interactive Dashboard v2 Here**](https://1drv.ms/v/c/7e1c61079c34cd29/IQB5FTDDgGr0SI_9zl8Cr1FqAV9USpjAiBb_JiGRoeABrVI?e=ehzSmm)
 
 **Key Power BI Skills Utilized (demonstrating progression):**
 
