@@ -2,7 +2,7 @@
  
 ## Introduction
  
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a *real-world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a *real-world dataset of 2023 to 2025 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation for data jobs.
 
  🔍 [View interactive dashboard here on Power BI service](https://1drv.ms/v/c/7e1c61079c34cd29/IQCzszhtz0MlQaGFI_JdZRbqAenccw6eS4skZHAvF2XZr-U?e=JboPb3)
  
